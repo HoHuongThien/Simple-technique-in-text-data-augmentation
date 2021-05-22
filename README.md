@@ -1,1 +1,1 @@
-# Simple technique in text data augmentation
+# Simple techniques for text data augmentation in Vietnamese language
